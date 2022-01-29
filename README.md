@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PandaCod
+- 👀 I'm looking for work within the NFT / Smart Contract space!
+- 🌱 I'm a 24 yar old blockchain enthusiast lerning solidity and smart contract development
+- 💞️ I’m looking to collaborate on any fun projects :)
+- 📫 How to reach me ...
